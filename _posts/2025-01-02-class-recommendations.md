@@ -1,5 +1,5 @@
 ---
-title: Class Recommendations
+title: "Class Recommendations"
 ---
 
 Throughout my time at UCSD, I've taken tons of data science, computer science, and math courses. I'm often asked which classes I recommend taking or which classes were the most enjoyable, so I thought I'd compile them here. I'll try and keep this list updated as I take more and more classes. 
