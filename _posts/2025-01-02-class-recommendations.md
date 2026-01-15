@@ -2,20 +2,37 @@
 title: "Class Recommendations"
 ---
 
-Throughout my time at UCSD, I've taken tons of data science, computer science, and math courses. I'm often asked which classes I recommend taking or which classes were the most enjoyable, so I thought I'd compile them here. I'll try and keep this list updated as I take more and more classes. 
+A compilation of classes I found most enjoyable:
 
-**CSE 152A + CSE 152B**
+**CSE 152A: Introduction to Computer Vision I** \\
+**CSE 152B: Introduction to Computer Vision II**
 
-If you're interested in computer vision, these classes will give you a great introduction to a ton of relevant topics, including feature detection/matching, reconstruction, classification, recognition, etc. You'll also get a great introduction to convolutional neural networks which were foundational for many computer vision breakthroughs over the years. The assignments are practical and are direct applications of the things you learn in class. Also, Professor Chandraker is amazing, his explanations are clear and he genuinely prioritizes your learning.
+These two classes provide a lot of insight into the traditional methods that were used for object recognition, segmentation, etc. Although transformer models have completely revolutionized the capabilities of modern vision systems, classical methods are still highly relevant and widely used. 
 
-**CSE 150B**
+It's a really exciting time to study computer vision, given the revolutionary advances made by Waymo, Tesla, and Zoox in the self driving space. 
 
-This is probably my favorite class that I've taken at UCSD. You'll learn a lot of the basics of reinforcement learning. The math is definitely challenging, but you don't need to fully understand it to get the main concepts. The programming assignments were building solvers for games like 2048, Blackjack, Sudoku, etc. which were genuinely fun to complete. Professor Gao's explanations are great and his lectures are entertaining and interactive. 
+The assignments are also super interesting, and you get to apply the techniques you learn in class to real world scenarios.
 
-**CSE 100 + 101 or DSC 190: Advanced Algorithms**
+**CSE 150B: Introduction to Artificial Intelligence: Search & Reasoning**
 
-I personally took CSE 100 + 101, but they both have a ton of prerequisites. If you're a data science major, it's probably better to just take DSC 190. These classes will cover a lot of the more advanced algorithms and data structures that sometimes show up during online assessments and technical interviews, such as dynamic programming, disjoint set forests, greedy algorithms, etc. You'll also learn about balanced binary trees and optimized techniques for hashing which are often implemented under the hood in many languages. It's useful to know and also pretty interesting in my opinion.
+Arguably, out of all the classes I've taken, my favorite one by far. The assignments are super interesting: building reinforcement learning agents to solve 2048, Blackjack, and Sudoku. 
 
-**MATH 180A + 181A + 181B**
+Additionally, a lot of the concepts in reinforcement learning are analogous to human behavior. For example, Markov decision processes (MDPs) can be used as a model to understand human decision making. 
 
-The machine learning classes at UCSD are pretty comprehensive, but a lot of data science related roles in the industry could involve a lot of statistics which isn't covered rigorously in any one machine learning class. Techniques like hypothesis testing, conducting statistical experiments, etc. These classes will give you a strong fundamental understanding of both parametric and nonparametric statistical techniques. It'll also make it easier to understand certain machine learning algorithms like linear regression, Naive Bayes, etc. Also, if you're working towards (or thinking of declaring) a math minor it'll knock out a ton of requirements. 
+The math is definitely tricky, but it builds on very familiar probability and statistics concepts like state spaces, expected value, and conditional probability. 
+
+**CSE 100: Advanced Data Structures** \\
+**CSE 101: Design & Analysis of Algorithms** \\
+**DSC 190: Advanced Algorithms**
+
+These classes cover advanced data structures and algorithms, such as disjoint sets, dynamic programming, balanced binary search trees, etc. Even though you may never explicitly use the techniques you learn, you get a lot of insight into how production systems work. For example, Google Maps uses A* to find shortest paths, SQL databases use B-trees under the hood, and autocomplete is implemented using prefix trees (tries). 
+
+Also, nowadays with the rising bar for technical interviews, these concepts are showing up during interviews. I've personally had interviews where the optimal solution required dynamic programming.
+
+**MATH 180A: Introduction to Probability** \\
+**MATH 181A: Introduction to Mathematical Statistics I** \\
+**MATH 181B: Introduction to Mathematical Statistics II**
+
+Data science without a strong statistical foundation is fundamentally incomplete. In my opinion, the Data Science and Cogs-ML majors abstract away too much of the statistical rigor that is necessary. These classes help fill that gap.
+
+In the stochastic world we live in, probability allows us to reason about and understand the phenomena we observe. For example, expected value provides a principled way to quantify whether a decision is good or bad.

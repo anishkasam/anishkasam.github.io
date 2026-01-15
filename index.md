@@ -5,7 +5,7 @@
 
 I'm majoring in data science, with a minor in math. My broad interests include probability, statistics, and computer vision.
 
-In my free time I chase my hoop dreams, watch standup comedy & documentaries, and try out different restaurants & recipes.
+In my free time I chase my hoop dreams, lift, watch standup comedy & documentaries, and try out different restaurants & recipes.
 
 
 ## Experience

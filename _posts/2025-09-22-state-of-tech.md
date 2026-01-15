@@ -20,7 +20,7 @@ Since 2022, well over 1 million tech employees have been laid off, with companie
 
 ### Oversaturation
 
-During the pandemic, a lot of high school students (myself included) were mindlessly scrolling through TikTok or Instagram. One of the most common genres of videos was “Day in the Life of a Software Engineer at [insert FAANG+ company].” These videos glorified the lifestyle: remote/hybrid work schedules and life changing salaries, all while putting in minimal effort.
+During the pandemic, a lot of high school students (myself included) were mindlessly scrolling through TikTok or Instagram. One of the most common genres of videos was “Day in the Life of a Software Engineer at [insert FAANG+ company].” These videos glorified the lifestyle: remote/hybrid work and life changing salaries, all while putting in minimal effort.
 
 Another common type of video was the success stories of those who were able to retire early or achieve financial freedom. One of the most notable people making this style of video was Frank Niu, a former Staff Engineer at Netflix, who was able to retire at 30. 
 
@@ -40,7 +40,7 @@ There aren’t many downsides to outsourcing either. Firstly, the infrastructure
 
 ### Unemployment
 
-One of the most cited statistics is unemployment by degree. Computer science majors now sit in the top ten, hovering around 6–7%. That doesn’t sound terrible at first glance, but it’s also a bit misleading. Underemployment is another indicator, and that number is closer to 16–17%. In other words, nearly a quarter of students graduating with a CS degree aren't using it in a meaningful way. That’s concerning for a major that’s this rigorous, and it's only getting worse.
+One of the most cited statistics is unemployment by degree. Computer science majors now sit in the top ten, hovering around 6–7%. That doesn’t sound terrible at first glance, but it’s also a bit misleading. Underemployment is also important to consider, and that number is closer to 16–17%. In other words, nearly a quarter of students graduating with a CS degree aren't using it in a meaningful way. That’s concerning for a major that’s this rigorous, and it's only getting worse.
 
 Honestly, what’s even more frightening is that these numbers are probably biased low. Anecdotally, I know tons of people who weren’t able to find jobs that are delaying their graduation or pursuing graduate school, so that they have more time to potentially land an internship. Now, this is detrimental for multiple reasons: it’s increasing the number of people applying for internships, students are incurring more debt/costs by staying in school, and it’s raising the hiring bar. If two people have similar experience, why not hire the one with the advanced degree, especially if you can pay them the same salary.
 
