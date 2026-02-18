@@ -27,7 +27,7 @@ Data Science Intern\\
 <b>Designing and Implementing Skill Tests at Scale: Frequent, Computer-Based, Proctored Assessments with Minimal Infrastructure Requirements</b> \\
 Anastasiya Markova, Anish Kasam, Bryce Hackel, Marina Langlois, Sam Lau \\
 *SIGCSE Technical Symposium on Computer Science Education*\\
-[paper](https://sigcse2026.sigcse.org/details/sigcse-ts-2026-Papers/72/Designing-and-Implementing-Skill-Tests-at-Scale-Frequent-Computer-Based-Proctored-)
+[paper](https://dl.acm.org/doi/10.1145/3770762.3772518)
 
 <b>Applications of Convolutional Neural Networks in Chest X-Ray Analyses for the Detection of COVID-19</b> \\
 Patrick Ting, Anish Kasam, Kevin Lan \\
