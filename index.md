@@ -3,9 +3,9 @@
 
 ## About
 
-I'm majoring in data science, with a minor in math. My broad interests include probability, statistics, and computer vision.
+I graduated from UC San Diego with a degree in Data Science and minors in Math & Computer Science. I’m broadly interested in probability/statistics, computer vision, and large scale backend systems.
 
-In my free time I chase my hoop dreams, lift, watch standup comedy & documentaries, and try out different restaurants & recipes.
+In my free time I chase my hoop dreams, rock climb, hike, watch standup comedy & documentaries, and explore new restaurants.
 
 
 ## Experience
@@ -55,8 +55,13 @@ Spring 2025
 
 ## Projects
 
+__CAVIAR__: A tool for UC San Diego Health to automate coverage analysis validation & exports.
+
+__In-Context Learning__: Experiments evaluating how efficient attention mechanisms support in-context learning.\\
+[poster](https://github.com/Shou-Yue/Incontext-Learning-of-Attention-Mechanisms/blob/main/artifacts/DSC%20180%20A11%20Capstone%20Poster.pdf) | [report](https://github.com/Shou-Yue/Incontext-Learning-of-Attention-Mechanisms/blob/main/artifacts/DSC_180B_Capstone_Report_A11.pdf) | [website](https://dhp003.github.io/dsc180b-website/) | [code](https://github.com/Shou-Yue/Incontext-Learning-of-Attention-Mechanisms/tree/main)
+
 __Probability & Statistics for ML__: A visual explanation of various parametric & nonparametric density estimation techniques.\\
 [website](https://anishkasam.github.io/probability-for-ml/) | [code](https://github.com/anishkasam/probability-for-ml)
 
 __Fantasy Football__: An exploration into which players are the most matchup dependent in fantasy football.\\
-[article](https://towardsdatascience.com/fantasy-football-data-analysis-with-python-b3c017d0d3b5) | [code](https://github.com/anishkasam/fantasy-football)
+[report](https://towardsdatascience.com/fantasy-football-data-analysis-with-python-b3c017d0d3b5) | [code](https://github.com/anishkasam/fantasy-football)
