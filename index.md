@@ -8,20 +8,6 @@ I graduated from UC San Diego with a degree in Data Science and minors in Math &
 In my free time I chase my hoop dreams, rock climb, hike, watch standup comedy & documentaries, and explore new restaurants.
 
 
-## Experience
-
-<b>Databricks</b>\\
-Software Engineer\\
-*Incoming April 2026*
-
-<b>Amazon</b>\\
-Software Development Engineer Intern\\
-*June 2025 - September 2025*
-
-<b>Qualcomm Institute</b>\\
-Data Science Intern\\
-*January 2024 - Present*
-
 ## Research
 
 <b>Designing and Implementing Skill Tests at Scale: Frequent, Computer-Based, Proctored Assessments with Minimal Infrastructure Requirements</b> \\
