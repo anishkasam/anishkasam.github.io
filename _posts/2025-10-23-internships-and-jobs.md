@@ -63,7 +63,7 @@ Each company will have a slightly different interview process. But, there's thre
 
 Online assessments are typically on CodeSignal or HackerRank and consist of coding questions in a timed, sometimes proctored setting. For software engineering roles, this is almost always Leetcode style questions. For data science or machine learning roles, this can still be Leetcode questions, but I've even seen SQL, Pandas, or conceptual questions before. 
 
-Technical interviews aim to understand how you approach and solve technical problems. For software engineering internships, this looks like solving Leetcode questions with an engineer. You'll have to talk about your thought process, consider tradeoffs, edge cases, etc. For full time roles, there will sometimes be a system design components where you'll have to explain how large scale applications (ex: Twitter, Fortnite) work. For data science or machine learning roles, this can be conceptual questions, case studies, SQL, etc. 
+Technical interviews aim to understand how you approach and solve technical problems. For software engineering internships, this looks like solving Leetcode questions with an engineer. You'll have to talk about your thought process, consider tradeoffs, edge cases, etc. For full time roles, there will sometimes be a system design component where you'll have to explain how large scale systems/applications (ex: Twitter, Fortnite) work. For data science or machine learning roles, this can be conceptual questions, case studies, SQL, etc. 
 
 Behavioral interviews are designed to understand you as a person: how you work on a team, how you handle conflict, and whether you are a good fit for the company. Beyond your technical capabilities, will you benefit the team?
 

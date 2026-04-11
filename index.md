@@ -3,7 +3,9 @@
 
 ## About
 
-I graduated from UC San Diego with a degree in Data Science and minors in Math & Computer Science. I’m broadly interested in probability/statistics, computer vision, and large scale backend systems.
+I’m currently a full stack software engineer at [Databricks](https://www.databricks.com/), where I work on the [AI/BI Dashboards](https://www.databricks.com/product/business-intelligence/ai-bi-dashboards?itm_source=www&itm_category=product&itm_page=business-intelligence&itm_location=body&itm_component=card-grid&itm_offer=ai-bi-dashboards) team. Previously, I interned at Amazon on the Alexa Communications team, building internal tools to improve developer workflows.
+
+I graduated from UC San Diego with a degree in Data Science and minors in Math & Computer Science. I’m broadly interested in education research & technology, probability & statistics, computer vision, and large scale backend systems.
 
 In my free time I chase my hoop dreams, rock climb, hike, watch standup comedy & documentaries, and explore new restaurants.
 
@@ -30,7 +32,7 @@ __DSC 30: Data Structures and Algorithms__\\
 Summer 2024
 
 __DSC 80: The Practice and Application of Data Science__\\
-Fall 2024 | Spring 2025
+[Fall 2024](https://dsc-courses.github.io/dsc80-2024-fa/staff/) | [Spring 2025](https://dsc-courses.github.io/dsc80-2025-sp/staff/)
 
 __DSC 95: Tutor Apprenticeship__\\
 Fall 2025
@@ -41,7 +43,7 @@ Spring 2025
 
 ## Projects
 
-__CAVIAR__: A tool for UC San Diego Health to automate coverage analysis validation & exports.
+__CAVIAR__: A tool for UC San Diego Health employees to automate coverage analysis validation & exports.
 
 __In-Context Learning__: Experiments evaluating how efficient attention mechanisms support in-context learning.\\
 [poster](https://github.com/Shou-Yue/Incontext-Learning-of-Attention-Mechanisms/blob/main/artifacts/DSC%20180%20A11%20Capstone%20Poster.pdf) | [report](https://github.com/Shou-Yue/Incontext-Learning-of-Attention-Mechanisms/blob/main/artifacts/DSC_180B_Capstone_Report_A11.pdf) | [website](https://dhp003.github.io/dsc180b-website/) | [code](https://github.com/Shou-Yue/Incontext-Learning-of-Attention-Mechanisms/tree/main)
